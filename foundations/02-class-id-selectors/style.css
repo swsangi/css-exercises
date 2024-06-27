@@ -1,11 +1,21 @@
-p {
-background-color: rosybrown;
+.odd {
+background-color: #f3a5a5;
 font-family: Verdana, DejaVu Sans, sans-serif;
 
-
+}
+.adjust-font-size {
+  font-size: 24px;
 }
 
-#Number 2 - I'm one ID. {
-
+#two {
+color:#0000ff;
+font-size: 36px;
     
+}
+
+#four {
+  background-color: #90ee90;
+  font-weight: bold;
+
+
 }
